@@ -14,6 +14,8 @@
 
 6. [Conclusion](#conclusion)
 
+7. [Report](PDF-Version)
+
 ---
 
 ## Introduction
@@ -29,7 +31,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Screenshot:**  
 
-![Account Suspension Email](sample-1_Email.jpeg)
+![Account Suspension Email](Sample-1_Email.jpeg)
 
 **Threat Analysis:**  
 
@@ -63,7 +65,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Screenshot:**  
 
-![Invoice/Malware Phishing](sample-2_Email.jpeg)
+![Invoice/Malware Phishing](Sample-2_Email.jpeg)
 
 **Threat Analysis:**  
 
@@ -124,3 +126,9 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 Phishing awareness is essential because it educates individuals about the risks and consequences of social engineering attacks. Increased awareness reduces the likelihood of users falling victim to malicious emails.
 
 User education plays a critical role in cybersecurity. When individuals understand what phishing is, how to recognize it, and how to prevent it, they contribute to a safer digital environment and significantly reduce an organization’s attack surface.
+
+---
+
+## PDF Version
+
+A downloadable PDF version of this report is available here:
