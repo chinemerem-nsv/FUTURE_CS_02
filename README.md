@@ -4,9 +4,9 @@
 
 1. [Introduction](#introduction)
 
-2. [Sample 1 – Account Suspension Phishing](#Account-Suspension-Phishing-Email)
+2. [Account Suspension Phishing Email](#Account-Suspension-Phishing-Email)
 
-3. [Sample 2 – Invoice / Malware Phishing](#Invoice-/-Malware-Phishing-Email)
+3. [Invoice / Malware Phishing Email](#Invoice/Malware-Phishing-Email)
 
 4. [Phishing Detection Checklist](#phishing-detection-checklist)
 
@@ -59,7 +59,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 ---
 
-## Invoice / Malware Phishing Email
+## Invoice/Malware Phishing Email
 
 **Screenshot:**  
 
