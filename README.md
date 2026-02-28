@@ -29,7 +29,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Screenshot:**  
 
-![Account Suspension Email](sample-1_Email.png)
+![Account Suspension Email](sample-1_Email.jpeg)
 
 **Threat Analysis:**  
 
@@ -45,13 +45,13 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Classification:** Phishing (Credential Theft / Social Engineering)  
 
-**Indicators of Compromise (IOCs):**  
+### Indicators of Compromise (IOCs):
 
-- Suspicious Sender Email: `support@paypaI-secure.com`
+- **Suspicious Sender Email:** `support@paypaI-secure.com`
 
-- Malicious Domain: `paypal-verification-security.com`
+- **Malicious Domain:** `paypal-verification-security.com`
 
-- Suspicious URL: `http://paypal-verification-security.com/login`
+- **Suspicious URL:** `http://paypal-verification-security.com/login`
 
 - Urgency Phrase: “Suspended within 24 hours”
 
@@ -63,7 +63,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Screenshot:**  
 
-![Invoice/Malware Phishing](sample-2_Email.png)
+![Invoice/Malware Phishing](sample-2_Email.jpeg)
 
 **Threat Analysis:**  
 
@@ -79,17 +79,17 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Classification:** Phishing (Malware Delivery + Business Email Compromise)  
 
-**Indicators of Compromise (IOCs):**  
+## Indicators of Compromise (IOCs): 
 
-- Suspicious Sender Email: `billing@microsof-support.com`
+- **Suspicious Sender Email:** `billing@microsof-support.com`
 
-- Malicious Attachment: `Invoice_2026.docm`
+- **Malicious Attachment:** `Invoice_2026.docm`
 
-- Urgency Phrase: “Payment required within 48 hours”
+- **Urgency Phrase:** “Payment required within 48 hours”
 
-- Threat Phrase: “Temporary suspension of services”
+- **Threat Phrase:** “Temporary suspension of services”
 
-- Generic Greeting: “Dear Finance Team”
+- **Generic Greeting:** “Dear Finance Team”
 
 ---
 
