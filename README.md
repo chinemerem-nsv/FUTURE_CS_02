@@ -4,9 +4,9 @@
 
 1. [Introduction](#introduction)
 
-2. [Sample 1 – Account Suspension Phishing](#sample-1-–-account-suspension-phishing)
+2. [Sample 1 – Account Suspension Phishing](#Account-Suspension-Phishing-Email)
 
-3. [Sample 2 – Invoice / Malware Phishing](#sample-2-–-invoice--malware-phishing)
+3. [Sample 2 – Invoice / Malware Phishing](#Invoice-/-Malware-Phishing-Email)
 
 4. [Phishing Detection Checklist](#phishing-detection-checklist)
 
