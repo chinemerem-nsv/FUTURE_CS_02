@@ -132,4 +132,5 @@ User education plays a critical role in cybersecurity. When individuals understa
 ## PDF Version
 
 A downloadable PDF version of this report is available here:
+
 [Download the Full Report (PDF)](docs/Phishing_Email_Detection.pdf)
