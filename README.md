@@ -31,7 +31,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Screenshot:**  
 
-![Account Suspension Email](Sample-1_Email.jpeg)
+![Account Suspension Email](image/Sample-1_Email.jpeg)
 
 **Threat Analysis:**  
 
@@ -65,7 +65,7 @@ This project demonstrates how phishing emails can be identified, analyzed, and e
 
 **Screenshot:**  
 
-![Invoice/Malware Phishing](Sample-2_Email.jpeg)
+![Invoice/Malware Phishing](image/Sample-2_Email.jpeg)
 
 **Threat Analysis:**  
 
@@ -132,3 +132,4 @@ User education plays a critical role in cybersecurity. When individuals understa
 ## PDF Version
 
 A downloadable PDF version of this report is available here:
+[Download the Full Report (PDF)](docs/Phishing_Email_Detection.pdf)
